@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { ethers } from "ethers";
 
 const owner = "0x4584cb3c5b23698d8a4e5c5588b73f665e36c024".toLowerCase();
